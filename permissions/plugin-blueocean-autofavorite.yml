@@ -17,3 +17,6 @@ developers:
 - "kshultz"
 - "bitwiseman"
 - "olamy"
+security:
+  contacts:
+    jira: "cloudbees_security_members"

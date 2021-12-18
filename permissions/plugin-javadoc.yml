@@ -9,6 +9,7 @@ developers:
 - "jglick"
 - "oleg_nenashev"
 - "olivergondza"
+- "olamy"
 security:
   contacts:
-    jira: "foundation_security_members"
+    jira: "cloudbees_security_members"
